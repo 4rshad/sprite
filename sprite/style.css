@@ -1,0 +1,220 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+i{
+    color: #fff;
+    margin-left: 20px;
+    cursor: pointer;
+}
+h1{
+    font-family: fantasy;
+}
+.header{
+    width: 100%;
+    height: 90px;
+    background-color: #009B4E;
+    position: sticky;
+    top: 0;
+    z-index: 999;
+}
+.headerimg img{
+    width: 74px;
+    height: 50px;
+    margin-left: 48px;
+    margin-top: 17px;
+    float: left;
+}
+a:hover{
+    color: #000;
+}
+.headerlink a{
+    font-family: fantasy;
+    text-decoration: none;
+    margin-left: 50px;
+    color: rgb(255, 255, 255);
+       
+}
+.headerlink{
+    padding-top: 35PX;
+    float: left;
+}
+.awesome{
+    
+    margin-left: 500px;
+    padding-top: 35PX;
+    float: left;
+    }
+.mainimg{
+    width: 100%;
+    height: 480px;
+}
+.button{
+padding-top: 380px;
+padding-left: 280px;
+}
+button{
+    font-weight: 800;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    border-color: #fff;
+    background-color: #E41B4F;
+    cursor: pointer;
+    
+}
+.wapper{
+    width: 100%;
+    height: 80px;
+    background-color: #E41B4F;
+}
+.text1{
+    
+    color: #fff;
+    font-weight: 400;
+    width: 50%;
+    padding-top: 19px;
+    padding-left: 60px;
+    text-align: center;
+    float: left;
+}
+.button3 {
+    
+    font-weight: 800;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    border-color: #fff;
+    background-color: #000000;
+    float: left;
+    cursor: pointer;
+}
+.button2{
+    font-family: fantasy;
+    padding-top: 20px;
+}
+.black{
+    height: 5px;
+    background-color: #000000;
+}
+.mp4{
+    width: 100%;
+    height: 500px;
+    
+}
+.video{
+    
+    margin-left: 340px;
+    width: 50%;
+    height: 500px;
+
+}
+.video1{
+    width: 650px;
+    height: 400px;
+}
+.wakanda{
+    width: 100%;
+    height: 400px;
+    background-color: #009B4E;
+}
+.box1{
+    width: 50%;
+    height: 450px;
+    background-color: #E41B4F;
+    float: left;
+}
+.box2{
+    width: 50%;
+    height: 450px;
+    background-color: #68001c;
+    float: left;
+}
+.footer{
+    width: 100%;
+    height: 610px;
+    background-color: #009B4E
+}
+iframe{
+    margin-left: 40px;
+
+}
+.button4 {
+    cursor: pointer;
+    font-weight: 800;
+    color: #fff;
+    width: 200px;
+    height: 50px;
+    border: 0px;
+    background-color: #009B4E;
+    margin-top: 355px;
+    margin-left: 225px;
+    
+}
+.footer1{
+    width: 50%;
+    height: 500px;
+    float: left;
+}
+.footer2{
+    width: 50%;
+    height: 500px;
+   
+    float: left;
+}
+.footerlogo img{
+    margin-left: 165px;
+    margin-top: 5px;
+    float: left;
+    
+}
+.connect{
+    font-size: 15px;
+    font-family: fantasy;
+   color: #fff; 
+   margin-left: 303px;
+    margin-top: 150px;
+    font-weight: 100;
+}
+.awesome1{
+    
+    float: left;
+    margin-top: 55px;
+    margin-left: 15px;
+}
+ul{
+    
+   line-height: 30px;
+    list-style: none;
+    font-family: fantasy;
+    cursor: pointer;
+}
+.foottext{
+    color: #fff;
+    font-weight: 100;
+    margin-top: 60px;
+    margin-left: 60px;
+}
+.h:hover{
+    color: rgb(0, 0, 0);
+}
+.footer3{
+    text-align: center;
+    width: 100%;
+    background-color:#009B4E;
+    height: 100px;
+    text-align: center;
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 500;
+}
+.foot4{
+    font-weight: 500;
+    color: #fff;
+}
